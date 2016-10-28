@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="KotlinJavaRuntime">
+    <CLASSES>
+      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime.jar!/" />
+      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-reflect.jar!/" />
+      <root url="file://$APPLICATION_HOME_DIR$/plugins/junit/lib" />
+      <root url="file://$APPLICATION_HOME_DIR$/plugins/Kotlin/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-runtime-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$APPLICATION_HOME_DIR$/plugins/junit/lib" recursive="false" />
+    <jarDirectory url="file://$APPLICATION_HOME_DIR$/plugins/Kotlin/lib" recursive="false" />
+  </library>
+</component>
